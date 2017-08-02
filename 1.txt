@@ -1,0 +1,12 @@
+Залить на ветку
+git status
+git add "1.txt"
+git commit -m "1.txt added"
+git push
+
+Выгрузить с ветки
+git fetch origin
+git pull
+
+Поменять ветку
+git checkout masha
